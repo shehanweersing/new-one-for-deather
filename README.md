@@ -40,6 +40,12 @@ The attack exploits the lack of encryption in management frames on older WiFi ne
 3. **💥 Attack:** It sends a "Deauthentication Frame" to the target device (client).
 4. **🔌 Result:** The client believes the legitimate router sent the request and disconnects immediately.
 
+<br>
+
+<div align="center">
+  <img src="assets/how-it-works.svg" alt="How It Works Animation" width="100%">
+</div>
+
 ## 🛠️ Hardware Requirements
 
 | Component | Description |
