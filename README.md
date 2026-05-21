@@ -1,4 +1,17 @@
-# <div align="center">
+<div class="animated-border" align="center">
+<style>
+@keyframes borderPulse {
+  0% { border-color: #33CA7F; }
+  50% { border-color: #ff6f61; }
+  100% { border-color: #33CA7F; }
+}
+.animated-border {
+  border: 5px solid #33CA7F;
+  border-radius: 15px;
+  animation: borderPulse 4s infinite;
+  padding: 15px;
+}
+</style>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=33CA7F&center=true&vCenter=true&width=600&lines=ESP8266+WiFi+Deauther;Understanding+WiFi+Security;Hands‑On+Deauth+Attacks" alt="Typing SVG"/>
 
