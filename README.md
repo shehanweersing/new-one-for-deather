@@ -1,4 +1,4 @@
-<div class="animated-border" align="center">
+<div class="animated-border">
 <style>
 @keyframes borderPulse {
   0% { border-color: #33CA7F; }
@@ -12,6 +12,8 @@
   padding: 15px;
 }
 </style>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=33CA7F&center=true&vCenter=true&width=600&lines=ESP8266+WiFi+Deauther;Understanding+WiFi+Security;Hands‑On+Deauth+Attacks" alt="Typing SVG"/>
 
